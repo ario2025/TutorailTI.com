@@ -7,8 +7,12 @@ Set your DNS name servers and config your repo (fork yours) and change domain an
 Set your username.github.io as your CNAME into your DNS, for "www" value.
 
 example-example.github.io
+
 185.199.108.153
+
 185.199.110.153
+
 185.199.109.153
+
 185.199.111.153
 
